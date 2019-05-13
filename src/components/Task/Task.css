@@ -1,0 +1,8 @@
+.close {
+  cursor: pointer;
+  width: 5%;
+}
+
+.close:hover {
+  background: #bbb;
+}
